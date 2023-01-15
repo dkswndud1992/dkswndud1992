@@ -4,9 +4,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkswndud1992%2F&count_bg=%233BFF8C&title_bg=%23FF9C45&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=dkswndud1992)](https://github.com/dkswndud1992/github-readme-stats)
+[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=dkswndud1992)](https://github.com/dkswndud1992)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkswndud1992)](https://github.com/dkswndud1992/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkswndud1992)](https://github.com/dkswndud1992)
 
 ## 🙋‍♂️ Personal Info
 - Ahn Joo Young
