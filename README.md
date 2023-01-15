@@ -2,7 +2,7 @@
 
 # Welcome To My GitHub!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkswndud1992%2F&count_bg=%233BFF8C&title_bg=%23FF9C45&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkswndud1992%2F&count_bg=%233BFF8C&title_bg=%23FF9C45&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/dkswndud1992)
 
 [![my GitHub stats](https://github-readme-stats.vercel.app/api?username=dkswndud1992)](https://github.com/dkswndud1992)
 
