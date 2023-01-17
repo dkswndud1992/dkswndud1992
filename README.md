@@ -34,4 +34,4 @@
 ## 📝 Portfolio Website(secret) - <a href="https://my-secret-portfolio.web.app">Here</a>
 [![image](https://raw.githubusercontent.com/dkswndud1992/dkswndud1992/main/web/portfolio_img.PNG)](https://my-secret-portfolio.web.app)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=🐒&fontSize=99)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=⛵️&fontSize=99)
