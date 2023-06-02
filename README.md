@@ -14,15 +14,23 @@
 - Frontend : <span><img src="https://img.shields.io/badge/HTML-f34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-A572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/VueJS-01DFA5?style=flat&logo=vue&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span><br/>
 
 - Backend : <span><img src="https://img.shields.io/badge/Java-a34f26?style=flat&logo=java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-0776pB?style=flat&logo=spring&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Kotlin-FFCA28?style=flat&logo=kotlin&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/NodeJS-dbab09?style=flat&logo=nodejs&logoColor=white"/></span><br/>
 
-- Deployment : <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=heroku&logoColor=white"/></span><br/>
+- Database : <span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/MariaDB-0B3B39?style=flat&logo=mariadb&logoColor=white"/></span><br/>
+
+- Deployment : <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=heroku&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Docker-00FFFF?style=flat&logo=docker&logoColor=white"/></span><br/>
 
 - Mobile App : <span><img src="https://img.shields.io/badge/Flutter-61dafb?style=flat&logo=flutter&logoColor=white"/></span><br/>
+
+- Robot : <span><img src="https://img.shields.io/badge/ROS2-ff0000?style=flat&logo=ros2&logoColor=white"/></span><br/>
 
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f09092?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span><br/>
