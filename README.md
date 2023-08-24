@@ -6,7 +6,8 @@
 
 ## 🙋‍♂️ Personal Info
 - Ahn Joo Young
-- Good Developer
+- Designer & Director & Developer
+- Generalist
 - dkswndud92@gmail.com
 
 ## 🔨 Technology Stacks
