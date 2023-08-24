@@ -20,7 +20,6 @@
 
 - Backend :
 <span><img src="https://img.shields.io/badge/Spring-0776pB?style=flat&logo=spring&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Kotlin-FFCA28?style=flat&logo=kotlin&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/NodeJS-dbab09?style=flat&logo=nodedotjs&logoColor=white"/></span>
 <br/>
 
@@ -36,6 +35,7 @@
 
 - Mobile App :
 <span><img src="https://img.shields.io/badge/Flutter-61dafb?style=flat&logo=flutter&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Kotlin-FFCA28?style=flat&logo=kotlin&logoColor=white"/></span>
 <br/>
 
 - Robot :
