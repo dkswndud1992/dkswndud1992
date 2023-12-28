@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=50&section=header&text=✨&fontSize=20)
 
-# Welcome To My GitHub!
+# Welcome To My GitHub! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkswndud1992%2F&count_bg=%233BFF8C&title_bg=%23FF9C45&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/dkswndud1992)
 
 ## 🙋‍♂️ Personal Info
 - Ahn Joo Young
 - Generalist Developer
 - dkswndud92@gmail.com
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkswndud1992%2F&count_bg=%233BFF8C&title_bg=%23FF9C45&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/dkswndud1992)
+
 
 ## 🔨 Technology Stacks
 - Frontend :
@@ -14,7 +14,7 @@
 <span><img src="https://img.shields.io/badge/CSS-A572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/VueJS-01DFA5?style=flat&logo=vuedotjs&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/ReactJS-00FFFF?style=flat&logo=reactdotjs&logoColor=black"/></span>
+<span><img src="https://img.shields.io/badge/ReactJS-00FFFF?style=flat&logo=react&logoColor=black"/></span>
 <br/>
 
 - Backend :
