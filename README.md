@@ -2,20 +2,19 @@
 
 # Welcome To My GitHub!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkswndud1992%2F&count_bg=%233BFF8C&title_bg=%23FF9C45&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/dkswndud1992)
-
 ## 🙋‍♂️ Personal Info
 - Ahn Joo Young
-- Designer & Director & Developer
-- Generalist
+- Generalist Developer
 - dkswndud92@gmail.com
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkswndud1992%2F&count_bg=%233BFF8C&title_bg=%23FF9C45&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/dkswndud1992)
 
 ## 🔨 Technology Stacks
 - Frontend :
-<span><img src="https://img.shields.io/badge/HTML-f34f26?style=flat&logo=html5&logoColor=white"/></span>
+<span>[![HTML](https://img.shields.io/badge/HTML-f34f26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html)</span>
 <span><img src="https://img.shields.io/badge/CSS-A572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/VueJS-01DFA5?style=flat&logo=vuedotjs&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/ReactJS-00FFFF?style=flat&logo=reactdotjs&logoColor=black"/></span>
 <br/>
 
 - Backend :
