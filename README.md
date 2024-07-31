@@ -20,12 +20,13 @@ int main(){
 
   while(johny.alive){
     print('hello world!');
-    work('💻');
-    eat('🍖');
-    work_out('🏋🏻');
-    hobby('📖');
-    print('good night.');
+    johny.work('💻');
+    johny.eat('🍖');
+    johny.work_out('🏋🏻');
+    johny.play('📖');
     johny.day++;
+    print('good night.');
+    johny.sleep(7);
   }
 
   return johny.value;
