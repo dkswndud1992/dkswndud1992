@@ -8,6 +8,29 @@
 - Like Tree
 - Everyday Improve
 
+```cpp
+import 'Human';
+
+int main(){
+  int year = 1992;
+  int month = 9;
+  int day = 22;
+  bool isHe = true;
+  Human johny = Human.life(year, month, day, isHe);
+
+  while(johny.alive){
+    print('hello world!');
+    work('💻');
+    eat('🍖');
+    work_out('🏋🏻');
+    hobby('📖');
+    print('good night.');
+    johny.day++;
+  }
+
+  return johny.value;
+}
+```
 
 ## 🔨 Technology Stacks
 - Frontend :
