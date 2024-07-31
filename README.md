@@ -19,14 +19,14 @@ int main(){
   Human johny = Human.life(year, month, day, isHe);
 
   while(johny.alive){
+    johny.sleep(7);
     print('hello world!');
-    johny.work('💻');
+    johny.money += johny.work('💻');
     johny.eat('🍖');
     johny.work_out('🏋🏻');
-    johny.play('📖');
-    johny.day++;
+    if(johny.ok) johny.study('📖');
     print('good night.');
-    johny.sleep(7);
+    johny.day++;
   }
 
   return johny.value;
