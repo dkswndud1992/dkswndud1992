@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ Personal Info
 - Generalist Developer
-- Love Robot Contol
+- Love Robot Control
 - Like Tree
 - Everyday Improve
 
