@@ -8,24 +8,30 @@
 - Like Tree
 - Everyday Improve
 
-```cpp
-import 'Human';
+```dart
+import 'human';
 
+/*
+ * My daily life
+ */
 int main(){
   int year = 1992;
   int month = 9;
   int day = 22;
   bool isHe = true;
-  Human johny = Human.life(year, month, day, isHe);
+  Human johny = Human(year, month, day, isHe);
 
   while(johny.alive){
     johny.sleep(7);
-    print('hello world!');
+    if(Human.randomSituation(johny)) continue;
+
+    print('hello world! ${johny.coworker?? 'robot'}');
     johny.money += johny.work('💻');
-    johny.eat('🍖');
-    johny.work_out('🏋🏻');
-    if(johny.ok) johny.study('📖');
-    print('good night.');
+    johny.money -= johny.eat('🍖');
+    johny.value += johny.work_out('🏋🏻');
+    if(johny.ok) johny.value += johny.study('📖');
+
+    print('good night. ${johny.wife?? 'myself'}');
     johny.day++;
   }
 
@@ -70,8 +76,5 @@ int main(){
 <span>[![Git](https://img.shields.io/badge/Git-f09092?style=flat&logo=git&logoColor=white)](https://git-scm.com)</span>
 <span>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)</span>
 <br/>
-
-## 📝 Portfolio Website(secret) - <a href="https://my-secret-portfolio.web.app">Here</a>
-[![Portfolio](https://raw.githubusercontent.com/dkswndud1992/dkswndud1992/main/web/portfolio_img.PNG)](https://my-secret-portfolio.web.app)
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=⛵️_keep_going&fontSize=88)](https://shields.io)
