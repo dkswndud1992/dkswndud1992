@@ -72,6 +72,11 @@ int main(){
 <span>[![ROS](https://img.shields.io/badge/ROS-ff0000?style=flat&logo=ros&logoColor=white)](https://www.ros.org)</span>
 <br/>
 
+- Machine Learning :
+<span>[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff7f00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)</span>
+<span>[![Keras](https://img.shields.io/badge/Keras-ff0000?style=flat&logo=keras&logoColor=white)](https://keras.io)</span>
+<br/>
+
 - Version Control :
 <span>[![Git](https://img.shields.io/badge/Git-f09092?style=flat&logo=git&logoColor=white)](https://git-scm.com)</span>
 <span>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)</span>
