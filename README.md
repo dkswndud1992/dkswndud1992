@@ -48,7 +48,7 @@ int main(){
 <br/>
 
 - Hardware :
-<span>[![ROS](https://img.shields.io/badge/ROS-ff0000?style=flat&logo=ros&logoColor=white)](https://www.ros.org)</span>
+<span>[![ROS](https://img.shields.io/badge/ROS-22314e?style=flat&logo=ros&logoColor=white)](https://www.ros.org)</span>
 <br/>
 
 - Controller :
@@ -56,7 +56,7 @@ int main(){
 <br/>
 
 - Management :
-<span>[![Git](https://img.shields.io/badge/Git-f09092?style=flat&logo=git&logoColor=white)](https://git-scm.com)</span>
+<span>[![Kubernetes](https://img.shields.io/badge/Kubernetes-316ce6?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)</span>
 <br/>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=⛵️_keep_going&fontSize=88)](https://shields.io)
