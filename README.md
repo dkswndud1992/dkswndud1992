@@ -2,10 +2,10 @@
 
 # Welcome To My GitHub! 
 
-## 🙋‍♂️ Personal Info
-- Long Generalist Safety Developer
-- Love Control Robot
-- Like a Tree
+## 🙋‍♂️ Personal Info 
+- Long Generalist Safety Developer 💻
+- Love Control Robot 🩷 🎮 🤖
+- Like a Tree 🌲
 
 ```dart
 import 'human';
