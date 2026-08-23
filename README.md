@@ -3,7 +3,7 @@
 # Welcome To My GitHub! 
 
 ## 🙋‍♂️ Personal Info 
-- Long Generalist Safety Developer 💻
+- Safety Long Generalist 💻
 - Love Control Robot 🩷 🎮 🤖
 - Like a Tree 🌲
 
@@ -39,24 +39,16 @@ int main(){
 ```
 
 ## 🔨 Technology Love
-- Language :
+- 1 :
 <span>[![JavaScript](https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)</span>
 <br/>
 
-- Interface :
+- 2 :
 <span>[![Flutter](https://img.shields.io/badge/Flutter-61dafb?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)</span>
 <br/>
 
-- Hardware :
+- 3 :
 <span>[![ROS](https://img.shields.io/badge/ROS-22314e?style=flat&logo=ros&logoColor=white)](https://www.ros.org)</span>
-<br/>
-
-- Controller :
-<span>[![Keras](https://img.shields.io/badge/Keras-ff0000?style=flat&logo=keras&logoColor=white)](https://keras.io)</span>
-<br/>
-
-- Management :
-<span>[![Kubernetes](https://img.shields.io/badge/Kubernetes-316ce6?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)</span>
 <br/>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=⛵️_keep_going&fontSize=88)](https://shields.io)
